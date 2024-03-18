@@ -263,6 +263,7 @@ img {
 @media (min-width:119px) and (max-width:520px){
     .header {
         background-color: rgb(126, 126, 126);
+        position: relative;
     }
     .logo {
         margin-left: 180px;
