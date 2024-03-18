@@ -331,6 +331,7 @@ img {
 @media (min-width:521px) and (max-width:769px){
     .header {
         background-color: #cccccc;
+        position: relative;
     }
     .logo {
         margin-left: 20px;
