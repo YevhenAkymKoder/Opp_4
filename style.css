@@ -88,8 +88,8 @@ body {
     padding: 0;
     margin: 0;
     text-align: center;
-
 }
+
 
 .li a {
     display: inline-block;
@@ -228,7 +228,6 @@ img {
     background: url(img8.png) no-repeat;
     background-size: cover;
   }
-
   .footer {
     background-color: #5DAD5B;
     display: flex;
@@ -411,4 +410,16 @@ img {
         width: 100%;
         max-width: 760px;
     }
+}
+.darkMode {
+    background-color: #444444;
+    color: greenyellow;
+}
+.darkMode.header, .darkMode.top  {
+    background-color: #cccccc;
+    color: greenyellow;
+}
+.darkMode.footer {
+    background-color: #686868;
+    color: greenyellow;
 }
